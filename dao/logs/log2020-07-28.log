@@ -1,0 +1,26 @@
+2020/07/28 11:12:28 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:12:28 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:12:28 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:12:28 [debug] [postgres connected ok]
+2020/07/28 11:12:28 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:12:28 [debug] [redis connected ok]
+2020/07/28 11:12:28 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:2839.328365msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 11:12:28 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 11:12:28 [info] [{13 liu 13}]
+2020/07/28 11:12:39 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:12:39 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:12:39 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:12:39 [debug] [postgres connected ok]
+2020/07/28 11:12:39 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:12:39 [debug] [redis connected ok]
+2020/07/28 11:12:39 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:62888.255µsSELECT * FROM "abcs"  [] 7
+2020/07/28 11:12:39 [debug] [操作影响的行数 7]
+2020/07/28 11:22:56 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:22:56 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:22:56 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:22:56 [debug] [postgres connected ok]
+2020/07/28 11:22:56 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:22:56 [debug] [redis connected ok]
+2020/07/28 11:22:56 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:281.646144msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 11:22:56 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 11:22:56 [info] [{13 liu 13}]

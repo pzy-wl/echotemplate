@@ -1,0 +1,346 @@
+2020/07/27 16:24:09 [debug] [postgres connecting... host=192.168.0.201 user=root dbname=test sslmode=disable password=password]
+2020/07/27 16:24:09 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:24:09 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:24:09 [debug] [postgres connected ok]
+2020/07/27 16:24:09 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:24:09 [debug] [redis connected ok]
+2020/07/27 16:24:09 log/Users/ccc/mydata/echo/dao/abcDao.go:22pq: relation "abcs" does not exist
+2020/07/27 16:24:09 sql/Users/ccc/mydata/echo/dao/abcDao.go:223.645719msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[2] 0
+2020/07/27 16:24:09 [info] [查询到的数据是 {0  }]
+2020/07/27 16:24:09 [info] [{0  }]
+2020/07/27 16:25:35 [debug] [postgres connecting... host=192.168.0.201 user=root dbname=test sslmode=disable password=password]
+2020/07/27 16:25:35 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:25:35 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:25:35 [debug] [postgres connected ok]
+2020/07/27 16:25:35 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:25:35 [debug] [redis connected ok]
+2020/07/27 16:25:35 log/Users/ccc/mydata/echo/dao/abcDao.go:22pq: relation "abcs" does not exist
+2020/07/27 16:25:35 sql/Users/ccc/mydata/echo/dao/abcDao.go:223.535282msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 0
+2020/07/27 16:25:35 [info] [查询到的数据是 {0  }]
+2020/07/27 16:25:35 [info] [{0  }]
+2020/07/27 16:26:21 [debug] [postgres connecting... host=192.168.0.1 user=root dbname=test sslmode=disable password=123456]
+2020/07/27 16:27:09 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:27:10 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:27:10 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:27:10 [debug] [postgres connected ok]
+2020/07/27 16:27:10 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:27:10 [debug] [redis connected ok]
+2020/07/27 16:27:10 sql/Users/ccc/mydata/echo/dao/abcDao.go:2228.388881msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/27 16:27:10 [info] [查询到的数据是 {13 李liu 13}]
+2020/07/27 16:27:10 [info] [{13 李liu 13}]
+2020/07/27 16:37:01 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:37:01 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:37:01 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:37:01 [debug] [postgres connected ok]
+2020/07/27 16:37:01 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:37:01 [debug] [redis connected ok]
+2020/07/27 16:37:01 sql/Users/ccc/mydata/echo/dao/abcDao.go:291.095676msSELECT * FROM "abcs"  WHERE ("abcs"."id" = 0)[] 0
+2020/07/27 16:37:01 [info] [[]]
+2020/07/27 16:37:28 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:37:28 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:37:28 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:37:28 [debug] [postgres connected ok]
+2020/07/27 16:37:28 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:37:28 [debug] [redis connected ok]
+2020/07/27 16:37:28 sql/Users/ccc/mydata/echo/dao/abcDao.go:291.187037msSELECT * FROM "abcs"  [] 5
+2020/07/27 16:37:28 [info] [[0xc00040b7d0 0xc00040b8f0 0xc00040b9e0 0xc00040bad0 0xc00040bbc0]]
+2020/07/27 16:38:01 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:38:01 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:38:01 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:38:01 [debug] [postgres connected ok]
+2020/07/27 16:38:01 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:38:01 [debug] [redis connected ok]
+2020/07/27 16:38:01 sql/Users/ccc/mydata/echo/dao/abcDao.go:29955.176µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:38:01 [info] [[0xc000111ad0 0xc000111bf0 0xc000111ce0 0xc000111dd0 0xc000111ec0]]
+2020/07/27 16:38:24 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:38:24 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:38:24 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:38:24 [debug] [postgres connected ok]
+2020/07/27 16:38:24 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:38:24 [debug] [redis connected ok]
+2020/07/27 16:38:24 log/Users/ccc/mydata/echo/dao/abcDao.go:29pq: syntax error at or near "where"
+2020/07/27 16:38:24 sql/Users/ccc/mydata/echo/dao/abcDao.go:29563.015µsSELECT * FROM "abcs"  WHERE (where 1=1)[] 0
+2020/07/27 16:38:24 [info] [[]]
+2020/07/27 16:39:26 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:39:26 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:39:26 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:39:26 [debug] [postgres connected ok]
+2020/07/27 16:39:26 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:39:26 [debug] [redis connected ok]
+2020/07/27 16:39:26 sql/Users/ccc/mydata/echo/dao/abcDao.go:29831.204µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:39:26 [info] [[0xc0003a7680 0xc0003a77a0 0xc0003a7890 0xc0003a7980 0xc0003a7a70]]
+2020/07/27 16:44:07 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:44:07 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:44:07 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:44:07 [debug] [postgres connected ok]
+2020/07/27 16:44:07 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:44:07 [debug] [redis connected ok]
+2020/07/27 16:46:09 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:46:09 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:46:09 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:46:09 [debug] [postgres connected ok]
+2020/07/27 16:46:09 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:46:09 [debug] [redis connected ok]
+2020/07/27 16:46:09 [info] [[0xc0000fd530 0xc0000fd650 0xc0000fd740 0xc0000fd830 0xc0000fd920]]
+2020/07/27 16:46:44 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:46:44 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:46:44 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:46:44 [debug] [postgres connected ok]
+2020/07/27 16:46:44 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:46:44 [debug] [redis connected ok]
+2020/07/27 16:46:44 sql/Users/ccc/mydata/echo/dao/abcDao.go:45971.584µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:46:44 [info] [[0xc000411230 0xc000411350 0xc000411440 0xc000411530 0xc000411620]]
+2020/07/27 16:48:08 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:48:08 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:48:08 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:48:08 [debug] [postgres connected ok]
+2020/07/27 16:48:08 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:48:08 [debug] [redis connected ok]
+2020/07/27 16:48:08 sql/Users/ccc/mydata/echo/dao/abcDao.go:501.065156msSELECT * FROM "abcs"  WHERE (1=1)[] 5
+2020/07/27 16:48:08 [info] [[0xc000381860 0xc000381980 0xc000381a70 0xc000381b60 0xc000381c50]]
+2020/07/27 16:50:57 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:50:57 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:50:57 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:50:57 [debug] [postgres connected ok]
+2020/07/27 16:50:57 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:50:57 [debug] [redis connected ok]
+2020/07/27 16:50:57 log/Users/ccc/mydata/echo/dao/abcDao.go:50pq: syntax error at or near "where"
+2020/07/27 16:50:57 sql/Users/ccc/mydata/echo/dao/abcDao.go:50580.884µsSELECT * FROM "abcs"  WHERE (where name=lisi)[] 0
+2020/07/27 16:50:57 [info] [[]]
+2020/07/27 16:51:42 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:51:42 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:51:42 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:51:42 [debug] [postgres connected ok]
+2020/07/27 16:51:42 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:51:42 [debug] [redis connected ok]
+2020/07/27 16:51:42 log/Users/ccc/mydata/echo/dao/abcDao.go:50pq: syntax error at or near "where"
+2020/07/27 16:51:42 sql/Users/ccc/mydata/echo/dao/abcDao.go:50449.681µsSELECT * FROM "abcs"  WHERE (where name=lisi)[] 0
+2020/07/27 16:51:42 [debug] [0]
+2020/07/27 16:51:42 [info] [[]]
+2020/07/27 16:52:04 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:52:04 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:52:04 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:52:04 [debug] [postgres connected ok]
+2020/07/27 16:52:04 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:52:04 [debug] [redis connected ok]
+2020/07/27 16:52:04 sql/Users/ccc/mydata/echo/dao/abcDao.go:50923.242µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:52:04 [debug] [5]
+2020/07/27 16:52:04 [info] [[0xc00048ed80 0xc00048eea0 0xc00048ef90 0xc00048f080 0xc00048f170]]
+2020/07/27 16:52:28 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:52:28 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:52:28 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:52:28 [debug] [postgres connected ok]
+2020/07/27 16:52:28 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:52:28 [debug] [redis connected ok]
+2020/07/27 16:52:28 [info] [[0xc0004b0930 0xc0004b0a50 0xc0004b0b40 0xc0004b0c30 0xc0004b0d20]]
+2020/07/27 16:52:48 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:52:48 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:52:48 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:52:48 [debug] [postgres connected ok]
+2020/07/27 16:52:48 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:52:48 [debug] [redis connected ok]
+2020/07/27 16:52:48 sql/Users/ccc/mydata/echo/dao/abcDao.go:50921.503µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:52:48 [debug] [5]
+2020/07/27 16:52:48 [info] [[0xc0003f5380 0xc0003f54a0 0xc0003f5590 0xc0003f5680 0xc0003f5770]]
+2020/07/27 16:53:49 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:53:49 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:53:49 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:53:49 [debug] [postgres connected ok]
+2020/07/27 16:53:49 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:53:49 [debug] [redis connected ok]
+2020/07/27 16:53:49 sql/Users/ccc/mydata/echo/dao/abcDao.go:50889.251µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:53:49 [debug] [5]
+2020/07/27 16:54:42 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:54:42 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:54:42 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:54:42 [debug] [postgres connected ok]
+2020/07/27 16:54:42 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:54:42 [debug] [redis connected ok]
+2020/07/27 16:54:42 sql/Users/ccc/mydata/echo/dao/abcDao.go:50852.518µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:54:42 [debug] [操作影响的行数 5]
+2020/07/27 16:55:34 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:55:34 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:55:34 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:55:34 [debug] [postgres connected ok]
+2020/07/27 16:55:34 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:55:34 [debug] [redis connected ok]
+2020/07/27 16:55:34 sql/Users/ccc/mydata/echo/dao/abcDao.go:50949.204µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:55:34 [debug] [操作影响的行数 5]
+2020/07/27 16:58:49 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:58:49 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:58:49 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:58:49 [debug] [postgres connected ok]
+2020/07/27 16:58:49 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:58:49 [debug] [redis connected ok]
+2020/07/27 16:58:49 sql/Users/ccc/mydata/echo/dao/abcDao.go:50943.155µsSELECT * FROM "abcs"  [] 5
+2020/07/27 16:58:49 [debug] [操作影响的行数 5]
+2020/07/27 16:59:05 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 16:59:05 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 16:59:05 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 16:59:05 [debug] [postgres connected ok]
+2020/07/27 16:59:05 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 16:59:05 [debug] [redis connected ok]
+2020/07/27 16:59:05 sql/Users/ccc/mydata/echo/dao/abcDao.go:501.131623msSELECT * FROM "abcs"  [] 5
+2020/07/27 16:59:05 [debug] [操作影响的行数 5]
+2020/07/27 17:00:00 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:00:00 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:00:00 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:00:00 [debug] [postgres connected ok]
+2020/07/27 17:00:00 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:00:00 [debug] [redis connected ok]
+2020/07/27 17:00:00 sql/Users/ccc/mydata/echo/dao/abcDao.go:50801.682µsSELECT * FROM "abcs"  [] 5
+2020/07/27 17:00:00 [debug] [操作影响的行数 5]
+2020/07/27 17:00:24 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:00:24 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:00:24 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:00:24 [debug] [postgres connected ok]
+2020/07/27 17:00:24 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:00:24 [debug] [redis connected ok]
+2020/07/27 17:01:19 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:01:19 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:01:19 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:01:19 [debug] [postgres connected ok]
+2020/07/27 17:01:19 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:01:19 [debug] [redis connected ok]
+2020/07/27 17:01:19 sql/Users/ccc/mydata/echo/dao/abcDao.go:501.212979msSELECT * FROM "abcs"  [] 5
+2020/07/27 17:01:19 [debug] [操作影响的行数 5]
+2020/07/27 17:01:41 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:01:41 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:01:41 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:01:41 [debug] [postgres connected ok]
+2020/07/27 17:01:41 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:01:41 [debug] [redis connected ok]
+2020/07/27 17:02:07 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:02:07 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:02:07 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:02:07 [debug] [postgres connected ok]
+2020/07/27 17:02:07 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:02:07 [debug] [redis connected ok]
+2020/07/27 17:02:21 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:02:21 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:02:21 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:02:21 [debug] [postgres connected ok]
+2020/07/27 17:02:21 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:02:21 [debug] [redis connected ok]
+2020/07/27 17:02:21 sql/Users/ccc/mydata/echo/dao/abcDao.go:50819.926µsSELECT * FROM "abcs"  [] 5
+2020/07/27 17:02:21 [debug] [操作影响的行数 5]
+2020/07/27 17:02:29 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:02:29 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:02:29 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:02:29 [debug] [postgres connected ok]
+2020/07/27 17:02:29 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:02:29 [debug] [redis connected ok]
+2020/07/27 17:02:29 sql/Users/ccc/mydata/echo/dao/abcDao.go:501.244946msSELECT * FROM "abcs"  [] 5
+2020/07/27 17:02:29 [debug] [操作影响的行数 5]
+2020/07/27 17:02:39 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:02:39 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:02:39 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:02:39 [debug] [postgres connected ok]
+2020/07/27 17:02:39 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:02:39 [debug] [redis connected ok]
+2020/07/27 17:04:10 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:04:10 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:04:10 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:04:10 [debug] [postgres connected ok]
+2020/07/27 17:04:10 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:04:10 [debug] [redis connected ok]
+2020/07/27 17:05:38 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:05:38 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:05:38 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:05:38 [debug] [postgres connected ok]
+2020/07/27 17:05:38 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:05:38 [debug] [redis connected ok]
+2020/07/27 17:05:50 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:05:50 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:05:50 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:05:50 [debug] [postgres connected ok]
+2020/07/27 17:05:50 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:05:50 [debug] [redis connected ok]
+2020/07/27 17:06:09 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:06:09 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:06:09 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:06:09 [debug] [postgres connected ok]
+2020/07/27 17:06:09 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:06:09 [debug] [redis connected ok]
+2020/07/27 17:06:09 sql/Users/ccc/mydata/echo/dao/abcDao.go:50937.877µsSELECT * FROM "abcs"  [] 5
+2020/07/27 17:06:09 [debug] [操作影响的行数 5]
+2020/07/27 17:09:04 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:09:04 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:09:04 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:09:04 [debug] [postgres connected ok]
+2020/07/27 17:09:04 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:09:04 [debug] [redis connected ok]
+2020/07/27 17:09:32 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:09:32 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:09:32 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:09:32 [debug] [postgres connected ok]
+2020/07/27 17:09:32 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:09:32 [debug] [redis connected ok]
+2020/07/27 17:09:32 sql/Users/ccc/mydata/echo/dao/abcDao.go:501.002076msSELECT * FROM "abcs"  [] 5
+2020/07/27 17:09:32 [debug] [操作影响的行数 5]
+2020/07/27 17:09:53 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:09:53 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:09:53 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:09:53 [debug] [postgres connected ok]
+2020/07/27 17:09:53 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:09:53 [debug] [redis connected ok]
+2020/07/27 17:09:53 sql/Users/ccc/mydata/echo/dao/abcDao.go:50916.547µsSELECT * FROM "abcs"  [] 5
+2020/07/27 17:09:53 [debug] [操作影响的行数 5]
+2020/07/27 17:10:17 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:10:17 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:10:17 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:10:17 [debug] [postgres connected ok]
+2020/07/27 17:10:17 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:10:17 [debug] [redis connected ok]
+2020/07/27 17:10:17 sql/Users/ccc/mydata/echo/dao/abcDao.go:501.002172msSELECT * FROM "abcs"  [] 5
+2020/07/27 17:10:17 [debug] [操作影响的行数 5]
+2020/07/27 17:10:52 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:10:52 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:10:52 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:10:52 [debug] [postgres connected ok]
+2020/07/27 17:10:52 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:10:52 [debug] [redis connected ok]
+2020/07/27 17:10:52 sql/Users/ccc/mydata/echo/dao/abcDao.go:501.058072msSELECT * FROM "abcs"  [] 5
+2020/07/27 17:10:52 [debug] [操作影响的行数 5]
+2020/07/27 17:18:23 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:18:23 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:18:23 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:18:23 [debug] [postgres connected ok]
+2020/07/27 17:18:23 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:18:23 [debug] [redis connected ok]
+2020/07/27 17:18:24 sql/Users/ccc/mydata/echo/dao/abcDao.go:6348.229801msINSERT  INTO "abcs" ("name","age") VALUES ($1,$2) RETURNING "abcs"."id"[lmm 1312] 1
+2020/07/27 17:18:24 [info] [执行插入操作后影响的行数是 1]
+2020/07/27 17:20:08 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:20:08 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:20:08 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:20:08 [debug] [postgres connected ok]
+2020/07/27 17:20:08 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:20:08 [debug] [redis connected ok]
+2020/07/27 17:20:08 sql/Users/ccc/mydata/echo/dao/abcDao.go:742.308472msUPDATE "abcs" SET "name" = $1, "age" = $2  WHERE "abcs"."id" = $3[李liu 13 13] 1
+2020/07/27 17:20:08 [info] [影响的行数 1]
+2020/07/27 17:20:28 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:20:28 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:20:28 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:20:28 [debug] [postgres connected ok]
+2020/07/27 17:20:28 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:20:28 [debug] [redis connected ok]
+2020/07/27 17:20:28 sql/Users/ccc/mydata/echo/dao/abcDao.go:741.109672msUPDATE "abcs" SET "name" = $1, "age" = $2  WHERE "abcs"."id" = $3[liu 13 13] 1
+2020/07/27 17:20:28 [info] [影响的行数 1]
+2020/07/27 17:20:46 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 17:20:46 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 17:20:46 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 17:20:46 [debug] [postgres connected ok]
+2020/07/27 17:20:46 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 17:20:46 [debug] [redis connected ok]
+2020/07/27 17:20:46 sql/Users/ccc/mydata/echo/dao/abcDao.go:741.511164msUPDATE "abcs" SET "name" = $1, "age" = $2  WHERE "abcs"."id" = $3[liu 13 15] 0
+2020/07/27 17:20:46 sql/Users/ccc/mydata/echo/dao/abcDao.go:74639.476µsSELECT * FROM "abcs"  WHERE "abcs"."id" = $1 ORDER BY "abcs"."id" ASC LIMIT 1[15] 0
+2020/07/27 17:20:46 sql/Users/ccc/mydata/echo/dao/abcDao.go:74518.794µsINSERT  INTO "abcs" ("id","name","age") VALUES ($1,$2,$3) RETURNING "abcs"."id"[15 liu 13] 1
+2020/07/27 17:20:46 [info] [影响的行数 1]
+2020/07/27 18:34:36 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/27 18:34:36 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/27 18:34:36 [info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/27 18:34:36 [debug] [postgres connected ok]
+2020/07/27 18:34:36 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/27 18:34:36 [debug] [redis connected ok]
+2020/07/27 18:34:36 sql/Users/ccc/mydata/echo/dao/abcDao.go:62860.09µsSELECT * FROM "abcs"  [] 7
+2020/07/27 18:34:36 [debug] [操作影响的行数 7]

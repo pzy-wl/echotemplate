@@ -1,0 +1,277 @@
+2020/07/28 11:25:27 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:25:27 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:25:27 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:25:27 [debug] [postgres connected ok]
+2020/07/28 11:25:27 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:25:27 [debug] [redis connected ok]
+2020/07/28 11:25:27 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:25:27 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:282.103089msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:25:27 [info] [查询到的数据是 {0  }]
+2020/07/28 11:25:35 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:25:35 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28559.963µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:25:35 [info] [查询到的数据是 {0  }]
+2020/07/28 11:26:26 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:26:26 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:26:26 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:26:26 [debug] [postgres connected ok]
+2020/07/28 11:26:26 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:26:26 [debug] [redis connected ok]
+2020/07/28 11:26:26 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:26:26 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:281.475825msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:26:26 [info] [查询到的数据是 {0  }]
+2020/07/28 11:26:28 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:26:28 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28874.372µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:26:28 [info] [查询到的数据是 {0  }]
+2020/07/28 11:26:28 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:26:28 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28850.136µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:26:28 [info] [查询到的数据是 {0  }]
+2020/07/28 11:26:28 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:26:28 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28400.319µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:26:28 [info] [查询到的数据是 {0  }]
+2020/07/28 11:26:30 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:26:30 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:288.300232msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:26:30 [info] [查询到的数据是 {0  }]
+2020/07/28 11:27:13 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:27:13 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:27:13 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:27:13 [debug] [postgres connected ok]
+2020/07/28 11:27:13 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:27:13 [debug] [redis connected ok]
+2020/07/28 11:27:22 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:29pq: invalid input syntax for integer: ""
+2020/07/28 11:27:22 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:291.376185msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:27:22 [info] [查询到的数据是 {0  }]
+2020/07/28 11:33:49 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:33:49 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:33:49 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:33:49 [debug] [postgres connected ok]
+2020/07/28 11:33:49 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:33:49 [debug] [redis connected ok]
+2020/07/28 11:35:27 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:35:27 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:35:27 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:35:27 [debug] [postgres connected ok]
+2020/07/28 11:35:27 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:35:27 [debug] [redis connected ok]
+2020/07/28 11:35:35 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:29pq: invalid input syntax for integer: ""
+2020/07/28 11:35:35 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:291.151757msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:35:35 [info] [查询到的数据是 {0  }]
+2020/07/28 11:35:45 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:29pq: invalid input syntax for integer: ""
+2020/07/28 11:35:45 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:29712.936µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:35:45 [info] [查询到的数据是 {0  }]
+2020/07/28 11:37:10 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:37:10 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:37:10 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:37:10 [debug] [postgres connected ok]
+2020/07/28 11:37:10 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:37:10 [debug] [redis connected ok]
+2020/07/28 11:39:25 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:39:25 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:39:25 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:39:25 [debug] [postgres connected ok]
+2020/07/28 11:39:25 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:39:25 [debug] [redis connected ok]
+2020/07/28 11:42:46 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:42:46 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:42:46 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:42:46 [debug] [postgres connected ok]
+2020/07/28 11:42:46 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:42:46 [debug] [redis connected ok]
+2020/07/28 11:43:16 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:43:16 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:43:16 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:43:16 [debug] [postgres connected ok]
+2020/07/28 11:43:16 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:43:16 [debug] [redis connected ok]
+2020/07/28 11:43:47 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:43:47 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:43:47 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:43:47 [debug] [postgres connected ok]
+2020/07/28 11:43:47 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:43:47 [debug] [redis connected ok]
+2020/07/28 11:43:54 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:43:54 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:284.66452msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:43:54 [info] [查询到的数据是 {0  }]
+2020/07/28 11:44:13 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:44:13 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28928.007µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:44:13 [info] [查询到的数据是 {0  }]
+2020/07/28 11:44:14 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:44:14 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28822.904µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:44:14 [info] [查询到的数据是 {0  }]
+2020/07/28 11:44:14 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:44:14 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28976.084µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:44:14 [info] [查询到的数据是 {0  }]
+2020/07/28 11:44:14 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28pq: invalid input syntax for integer: ""
+2020/07/28 11:44:14 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28491.872µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 11:44:14 [info] [查询到的数据是 {0  }]
+2020/07/28 11:44:23 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28837.39µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 11:44:23 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 11:44:26 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:28743.656µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 11:44:26 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 11:45:13 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:45:13 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:45:13 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:45:13 [debug] [postgres connected ok]
+2020/07/28 11:45:13 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:45:13 [debug] [redis connected ok]
+2020/07/28 11:45:15 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:62910.318µsSELECT * FROM "abcs"  [] 7
+2020/07/28 11:45:15 [debug] [操作影响的行数 7]
+2020/07/28 11:55:07 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:55:07 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:55:07 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:55:07 [debug] [postgres connected ok]
+2020/07/28 11:55:07 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:55:07 [debug] [redis connected ok]
+2020/07/28 11:55:22 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:281.777626msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 11:55:22 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 11:56:25 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:56:25 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:56:25 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:56:25 [debug] [postgres connected ok]
+2020/07/28 11:56:25 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:56:25 [debug] [redis connected ok]
+2020/07/28 11:56:26 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:281.910021msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 11:56:26 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 11:58:34 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 11:58:34 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 11:58:34 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 11:58:34 [debug] [postgres connected ok]
+2020/07/28 11:58:34 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 11:58:34 [debug] [redis connected ok]
+2020/07/28 11:58:38 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:282.133964msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 11:58:38 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 13:59:01 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 13:59:01 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 13:59:01 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 13:59:01 [debug] [postgres connected ok]
+2020/07/28 13:59:01 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 13:59:01 [debug] [redis connected ok]
+2020/07/28 13:59:21 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:292.542686msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 13:59:21 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 14:00:45 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 14:00:45 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 14:00:45 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 14:00:45 [debug] [postgres connected ok]
+2020/07/28 14:00:45 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 14:00:45 [debug] [redis connected ok]
+2020/07/28 14:00:52 log/Users/ccc/mydata/echoTemplate/dao/abcDao.go:29pq: invalid input syntax for integer: ""
+2020/07/28 14:00:52 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:291.554279msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[] 0
+2020/07/28 14:00:52 [info] [查询到的数据是 {0  }]
+2020/07/28 14:02:50 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 14:02:50 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 14:02:50 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 14:02:50 [debug] [postgres connected ok]
+2020/07/28 14:02:50 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 14:02:50 [debug] [redis connected ok]
+2020/07/28 14:02:54 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:292.595518msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 14:02:54 [info] [查询到的数据是 {13 liu 13}]
+2020/07/28 14:02:58 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63666.151µsSELECT * FROM "abcs"  [] 7
+2020/07/28 14:02:58 [debug] [操作影响的行数 7]
+2020/07/28 14:03:08 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:36533.841µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 14:03:08 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:81616.911µsDELETE FROM "abcs"  WHERE "abcs"."id" = $1[13] 1
+2020/07/28 14:03:09 [info] [执行删除操作后影响的行数是 1]
+2020/07/28 14:03:17 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63369.944µsSELECT * FROM "abcs"  [] 6
+2020/07/28 14:03:17 [debug] [操作影响的行数 6]
+2020/07/28 14:20:11 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 14:20:11 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 14:20:11 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 14:20:11 [debug] [postgres connected ok]
+2020/07/28 14:20:11 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 14:20:11 [debug] [redis connected ok]
+2020/07/28 14:20:24 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 14:20:24 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 14:20:24 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 14:20:24 [debug] [postgres connected ok]
+2020/07/28 14:20:24 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 14:20:24 [debug] [redis connected ok]
+2020/07/28 14:20:31 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:291.650601msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 0
+2020/07/28 14:20:31 [info] [查询到的数据是 {0  }]
+2020/07/28 14:20:36 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:29629.179µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[12] 0
+2020/07/28 14:20:36 [info] [查询到的数据是 {0  }]
+2020/07/28 14:20:39 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63455.808µsSELECT * FROM "abcs"  [] 6
+2020/07/28 14:20:39 [debug] [操作影响的行数 6]
+2020/07/28 14:20:44 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:29531.311µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[2] 1
+2020/07/28 14:20:44 [info] [查询到的数据是 {2 ls 12}]
+2020/07/28 14:20:59 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:8840.819183msINSERT INTO "abcs" ("name","age") VALUES ($1,$2) RETURNING "abcs"."id"[潘振营 34] 1
+2020/07/28 14:20:59 [info] [影响的行数 1]
+2020/07/28 14:21:07 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63442.259µsSELECT * FROM "abcs"  [] 7
+2020/07/28 14:21:07 [debug] [操作影响的行数 7]
+2020/07/28 14:21:24 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:36587.655µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[2] 1
+2020/07/28 14:21:24 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:81461.462µsDELETE FROM "abcs"  WHERE "abcs"."id" = $1[2] 1
+2020/07/28 14:21:24 [info] [执行删除操作后影响的行数是 1]
+2020/07/28 14:21:28 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63376.377µsSELECT * FROM "abcs"  [] 6
+2020/07/28 14:21:28 [debug] [操作影响的行数 6]
+2020/07/28 14:21:40 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:88461.424µsINSERT INTO "abcs" ("name","age") VALUES ($1,$2) RETURNING "abcs"."id"[cs777 34] 1
+2020/07/28 14:21:40 [info] [影响的行数 1]
+2020/07/28 14:21:43 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63544.761µsSELECT * FROM "abcs"  [] 7
+2020/07/28 14:21:43 [debug] [操作影响的行数 7]
+2020/07/28 14:21:51 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:88270.804µsINSERT INTO "abcs" ("name","age") VALUES ($1,$2) RETURNING "abcs"."id"[ ] 1
+2020/07/28 14:21:51 [info] [影响的行数 1]
+2020/07/28 14:21:55 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63409.801µsSELECT * FROM "abcs"  [] 8
+2020/07/28 14:21:55 [debug] [操作影响的行数 8]
+2020/07/28 14:22:05 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:88443.373µsINSERT INTO "abcs" ("name","age") VALUES ($1,$2) RETURNING "abcs"."id"[ ] 1
+2020/07/28 14:22:05 [info] [影响的行数 1]
+2020/07/28 14:22:20 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:74459.833µsINSERT INTO "abcs" ("name","age") VALUES ($1,$2) RETURNING "abcs"."id"[pzy 24] 1
+2020/07/28 14:22:20 [info] [执行插入操作后影响的行数是 1]
+2020/07/28 14:22:44 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:74634.637µsINSERT INTO "abcs" ("name","age") VALUES ($1,$2) RETURNING "abcs"."id"[cs777 34] 1
+2020/07/28 14:22:44 [info] [执行插入操作后影响的行数是 1]
+2020/07/28 14:24:19 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 14:24:19 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 14:24:19 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 14:24:19 [debug] [postgres connected ok]
+2020/07/28 14:24:19 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 14:24:19 [debug] [redis connected ok]
+2020/07/28 14:24:30 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:291.418587msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 0
+2020/07/28 14:24:30 [info] [查询到的数据是 {0  }]
+2020/07/28 14:24:33 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63453.031µsSELECT * FROM "abcs"  [] 11
+2020/07/28 14:24:33 [debug] [操作影响的行数 11]
+2020/07/28 14:24:48 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:88515.915µsUPDATE "abcs" SET "name" = $1, "age" = $2  WHERE "abcs"."id" = $3[李金弟 34 26] 1
+2020/07/28 14:24:48 [info] [影响的行数 1]
+2020/07/28 14:24:52 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63407.153µsSELECT * FROM "abcs"  [] 11
+2020/07/28 14:24:52 [debug] [操作影响的行数 11]
+2020/07/28 14:24:59 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:36565.455µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[26] 1
+2020/07/28 14:24:59 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:81293.305µsDELETE FROM "abcs"  WHERE "abcs"."id" = $1[26] 1
+2020/07/28 14:24:59 [info] [执行删除操作后影响的行数是 1]
+2020/07/28 14:25:02 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63423.287µsSELECT * FROM "abcs"  [] 10
+2020/07/28 14:25:02 [debug] [操作影响的行数 10]
+2020/07/28 14:25:15 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:36588.74µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[28] 1
+2020/07/28 14:25:15 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:81397.277µsDELETE FROM "abcs"  WHERE "abcs"."id" = $1[28] 1
+2020/07/28 14:25:15 [info] [执行删除操作后影响的行数是 1]
+2020/07/28 14:25:20 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:36513.488µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[29] 1
+2020/07/28 14:25:20 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:81374.815µsDELETE FROM "abcs"  WHERE "abcs"."id" = $1[29] 1
+2020/07/28 14:25:20 [info] [执行删除操作后影响的行数是 1]
+2020/07/28 14:25:33 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63450.263µsSELECT * FROM "abcs"  [] 8
+2020/07/28 14:25:33 [debug] [操作影响的行数 8]
+2020/07/28 14:26:16 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:88420.391µsUPDATE "abcs" SET "name" = $1, "age" = $2  WHERE "abcs"."id" = $3[ef rw 13] 0
+2020/07/28 14:26:16 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:88339.385µsSELECT * FROM "abcs"  WHERE "abcs"."id" = $1 ORDER BY "abcs"."id" ASC LIMIT 1[13] 0
+2020/07/28 14:26:16 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:88362.367µsINSERT INTO "abcs" ("id","name","age") VALUES ($1,$2,$3) RETURNING "abcs"."id"[13 ef rw] 1
+2020/07/28 14:26:16 [info] [影响的行数 1]
+2020/07/28 14:26:20 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63372.639µsSELECT * FROM "abcs"  [] 9
+2020/07/28 14:26:20 [debug] [操作影响的行数 9]
+2020/07/28 14:26:28 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:88449.028µsUPDATE "abcs" SET "name" = $1, "age" = $2  WHERE "abcs"."id" = $3[cs777 34 13] 1
+2020/07/28 14:26:28 [info] [影响的行数 1]
+2020/07/28 14:33:59 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 14:33:59 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 14:33:59 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 14:33:59 [debug] [postgres connected ok]
+2020/07/28 14:33:59 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 14:33:59 [debug] [redis connected ok]
+2020/07/28 14:34:08 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:361.516908msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 1
+2020/07/28 14:34:08 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:81518.977µsDELETE FROM "abcs"  WHERE "abcs"."id" = $1[13] 1
+2020/07/28 14:34:08 [info] [执行删除操作后影响的行数是 1]
+2020/07/28 14:34:11 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:63384.998µsSELECT * FROM "abcs"  [] 8
+2020/07/28 14:34:11 [debug] [操作影响的行数 8]
+2020/07/28 14:34:18 sql/Users/ccc/mydata/echoTemplate/dao/abcDao.go:36527.807µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 0
+2020/07/28 14:41:14 [debug] [postgres connecting... host=localhost user=postgres dbname=test sslmode=disable password=123456]
+2020/07/28 14:41:14 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:27
+2020/07/28 14:41:14 info[info] replacing callback `gorm:update_time_stamp` from /Users/ccc/mydata/vchat/lib/ypg/db.go:28
+2020/07/28 14:41:14 [debug] [postgres connected ok]
+2020/07/28 14:41:14 [debug] [redis connecting... [192.168.0.201:7001 192.168.0.201:7002 192.168.0.201:7003 192.168.0.201:7004 192.168.0.201:7005 192.168.0.201:7006]]
+2020/07/28 14:41:14 [debug] [redis connected ok]
+2020/07/28 14:41:24 sql/Users/ccc/mydata/echotemplate/dao/abcDao.go:291.747614msSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[2] 0
+2020/07/28 14:41:24 [info] [查询到的数据是 {0  }]
+2020/07/28 14:41:27 sql/Users/ccc/mydata/echotemplate/dao/abcDao.go:631.840816msSELECT * FROM "abcs"  [] 8
+2020/07/28 14:41:27 [debug] [操作影响的行数 8]
+2020/07/28 14:41:35 sql/Users/ccc/mydata/echotemplate/dao/abcDao.go:36595.513µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 0
+2020/07/28 14:41:41 sql/Users/ccc/mydata/echotemplate/dao/abcDao.go:36480.007µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[26] 0
+2020/07/28 14:41:47 sql/Users/ccc/mydata/echotemplate/dao/abcDao.go:29592.523µsSELECT * FROM "abcs"  WHERE (id=$1) ORDER BY "abcs"."id" ASC LIMIT 1[13] 0
+2020/07/28 14:41:47 [info] [查询到的数据是 {0  }]
